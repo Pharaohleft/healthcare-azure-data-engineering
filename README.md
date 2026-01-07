@@ -13,7 +13,8 @@ By processing real-time ADT (Admission, Discharge, Transfer) streams, this syste
 ---
 
 ### 🏗️ System Architecture
-![System Architecture](architecture.png)
+![Uploading Untitled diagram-2026-01-07-043450.png…]()
+
 *(See the live flow from raw chaos to actionable intelligence)*
 
 ---
