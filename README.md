@@ -1,4 +1,4 @@
-# healthcare-azure-data-engineering
+# Healthcare-Azure-Data-Engineering
 
 #  Real-Time Hospital Resource Optimization Engine
 
