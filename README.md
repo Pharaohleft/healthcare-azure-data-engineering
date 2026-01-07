@@ -91,3 +91,12 @@ Dashboards can be overwhelming. This project includes a **Natural Language Gener
 * **Latency:** Reduced data availability time from Daily Batch to **<10 Seconds**.
 * **Accuracy:** ML Model predicts long-term stays with **85% precision** (simulated).
 * **Operational Value:** Replaces manual spreadsheet reporting with automated, proactive alerts.
+
+
+CI/CD & Automation (GitHub Actions):
+
+What it is: Automatically deploying the code when you push to Git, instead of manually running cells.
+
+Status: We are running this manually in Databricks.
+
+Currently, deployment is manual via Databricks Repos. My next step would be to set up GitHub Actions or Azure DevOps to automatically deploy these notebooks to the Production workspace whenever I merge a Pull Request.
