@@ -39,7 +39,7 @@ Underlying the visuals is a robust SQL analytics layer. This query calculates th
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 * **Cloud Platform:** Azure Databricks
 * **Core Engine:** Apache Spark (Structured Streaming)
 * **Storage Format:** Delta Lake (Medallion Architecture)
@@ -49,7 +49,7 @@ Underlying the visuals is a robust SQL analytics layer. This query calculates th
 
 ---
 
-### 📂 Project Structure
+###  Project Structure
 The solution is architected into 6 modular notebooks following the **Medallion Architecture**:
 
 | Notebook | Layer | Description |
@@ -93,10 +93,5 @@ Dashboards can be overwhelming. This project includes a **Natural Language Gener
 * **Operational Value:** Replaces manual spreadsheet reporting with automated, proactive alerts.
 
 
-CI/CD & Automation (GitHub Actions):
-
-What it is: Automatically deploying the code when you push to Git, instead of manually running cells.
-
-Status: We are running this manually in Databricks.
 
 Currently, deployment is manual via Databricks Repos. My next step would be to set up GitHub Actions or Azure DevOps to automatically deploy these notebooks to the Production workspace whenever I merge a Pull Request.
