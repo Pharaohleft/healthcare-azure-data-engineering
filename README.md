@@ -16,7 +16,7 @@ By processing real-time ADT (Admission, Discharge, Transfer) streams, this syste
 
 <img width="4081" height="6378" alt="Untitled diagram-2026-01-07-043450" src="https://github.com/user-attachments/assets/c80893e5-4ff8-4b3e-bc41-a08aad1e96db" />
 
-*(See the live flow from raw chaos to actionable intelligence)*
+
 
 #### 1. The Mission Control Dashboard
 A consolidated 2x2 view tracking:
